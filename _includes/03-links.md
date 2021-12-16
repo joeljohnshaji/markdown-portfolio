@@ -1,1 +1,1 @@
-https://github.com/joeljohnshaji/github-slideshow
+github(https://github.com/joeljohnshaji/github-slideshow)
